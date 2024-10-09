@@ -1,0 +1,46 @@
+
+body {
+    background-image: url(dragon-ball-goku-sparks-gif-cover-desktop-wallpaper.gif);
+    background-size:cover;
+}
+
+
+.judul {
+    color: aliceblue;
+    text-align: center;
+}
+
+.jurusan {
+    text-align: center;
+    color: aliceblue;
+}
+
+.container-nav {
+    
+}
+.ul-nav {
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: baseline;
+}
+.li {
+    border: 1px solid rgb(247, 240, 240);
+    list-style-type: none;
+    background-color: black;
+    padding: auto;
+    margin: auto;
+    color: rgb(74, 224, 81);
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30 %;
+    height: 30 %;
+}
+h3 {
+    text-align: center;
+    color: aliceblue;
+}
